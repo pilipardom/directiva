@@ -39,7 +39,7 @@
                     </div>
   
                     <div class="pt-1 mb-4">
-                      <button class="btn btn-dark btn-lg btn-block" type="button">Login</button>
+                      <button class="btn btn-dark btn-lg btn-block w-100" type="button">Login</button>
                     </div>
 
                   </form>
